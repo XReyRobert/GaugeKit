@@ -181,7 +181,7 @@
 			attributes = {
 				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 0700;
-				LastUpgradeCheck = 1010;
+				LastUpgradeCheck = 1120;
 				ORGANIZATIONNAME = "Petr Korolev";
 				TargetAttributes = {
 					1C9404CF1B31CF85001BF122 = {
@@ -196,11 +196,11 @@
 			};
 			buildConfigurationList = 1C9404CA1B31CF85001BF122 /* Build configuration list for PBXProject "GaugeKit" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
+				Base,
 			);
 			mainGroup = 1C9404C61B31CF85001BF122;
 			productRefGroup = 1C9404D11B31CF85001BF122 /* Products */;
